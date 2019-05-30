@@ -1,1 +1,1 @@
-# Klas-s
+# Klasės
